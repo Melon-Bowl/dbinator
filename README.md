@@ -3,7 +3,7 @@
 
  ## Installation
  To install from command line:
- git clone https://github.com/Melon-Bowl/db-management-system.git
+ git clone https://github.com/Melon-Bowl/dbinator.git
 
  Or you can download the zip file.
 
