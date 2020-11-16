@@ -1,12 +1,11 @@
-# Database Management System
- DBMS is a python library which allows anyone to create, update and look at data from any sqlite3 database.
+# dbInator
+ dbInator is a python library which allows anyone to create, update and look at data from any sqlite3 database.
 
  ## Installation
- You can use:
-
+ To install from command line:
  git clone https://github.com/Melon-Bowl/db-management-system.git
 
- from the command line or download a zip of the repository.
+ Or you can download the zip file.
 
  Make sure that all the files are in the same directory when running main.py
 
